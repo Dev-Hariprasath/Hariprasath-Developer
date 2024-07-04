@@ -19,4 +19,4 @@ Frontend Developer @svcet
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Hariprasath_Devloper?theme=dark&font=Marcellus&ext=contest)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath-Developer&bg_color=050505&color=ffffff&line=2cb52e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariprasath-Developer&bg_color=050505&color=ffffff&line=2cb52e&point=ffffff&area=true&hide_border=true)]
